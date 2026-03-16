@@ -10,3 +10,4 @@ Improve mobile responsiveness with media queries
 Refactor CSS for better readability and organization
 Update README with project description and usage instructions
 Fix minor bugs and improve overall page performance
+Add ordered and unordered lists for product features
