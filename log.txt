@@ -17,3 +17,4 @@ Clean up unused code and improve file organization
 Add comments to HTML code for better understanding
 Improve page accessibility with alt text for images
 Optimize images to reduce page load time
+Update styling for buttons and links
