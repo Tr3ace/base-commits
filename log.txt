@@ -15,3 +15,4 @@ Update image paths and fix broken media links
 Update image paths and fix broken media links
 Clean up unused code and improve file organization
 Add comments to HTML code for better understanding
+Improve page accessibility with alt text for images
