@@ -5,3 +5,4 @@ Add basic HTML layout with header, main, and footer
 implement CSS styling for page layout and typography
 Add product image and description section
 Fix alignment issue in navigation bar
+Add audio player support to the webpage
