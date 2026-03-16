@@ -1,2 +1,3 @@
 Completing base file
 Things i like to do
+Initial project setup and folder structure
