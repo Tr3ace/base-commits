@@ -12,3 +12,4 @@ Update README with project description and usage instructions
 Fix minor bugs and improve overall page performance
 Add ordered and unordered lists for product features
 Update image paths and fix broken media links
+Update image paths and fix broken media links
