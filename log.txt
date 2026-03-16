@@ -7,3 +7,4 @@ Add product image and description section
 Fix alignment issue in navigation bar
 Add audio player support to the webpage
 Improve mobile responsiveness with media queries
+Refactor CSS for better readability and organization
