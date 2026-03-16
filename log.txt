@@ -3,3 +3,4 @@ Things i like to do
 Initial project setup and folder structure
 Add basic HTML layout with header, main, and footer
 implement CSS styling for page layout and typography
+Add product image and description section
